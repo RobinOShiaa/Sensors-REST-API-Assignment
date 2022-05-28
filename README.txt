@@ -1,0 +1,3 @@
+The Application was created through a Spring framework that was executred within intellij IDE, All relevant sensor data was stored in a localhost SQL database.Http request to the framework were done via Postman.
+The program is executed by running WeatherappApplication located in src/main/java/com/example/weatherapp/WeatherappApplication.
+Testing is located within three java files in the directory \src\test\java\com\example\weatherapp\weatherapp\
